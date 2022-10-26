@@ -1,4 +1,4 @@
-## Hi there 👋
+## Thingio Studio 集成开发环境 👋
 
 <!--
 
